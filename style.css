@@ -14,7 +14,7 @@ h1{
     color: yellowgreen;
 }
 
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 80px;
 }
@@ -51,6 +51,6 @@ section{
     background-position: right;
 }
 
-.dream-bigP{
+.dream-bigp{
     padding-right: 50px;
 }
