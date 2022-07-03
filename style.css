@@ -54,3 +54,31 @@ h1{
 .dream-bigp{
     padding-right: 50px;
 }
+
+.developer{
+    width: 40%;
+    margin-top: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+
+.experiences{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+#baby-Web-Developer{
+    border-left:10px solid red;
+}
+
+#full{
+    border-left:10px solid blue;
+}
+
+footer{
+    text-align: center;
+}
