@@ -83,10 +83,27 @@ h1{
 #full{
     border-left:10px solid blue;
 }
+.hr1{
+    text-decoration: underline solid transparent;
+    transition: text-decoration 0.25s ease;
+}
+
+.hr1:hover{
+    text-decoration: underline solid blue;
+}
  
 #full:hover{
     transform: scale(1.1); 
 }
+.hr2{
+    text-decoration: underline solid transparent;
+    transition: text-decoration 0.25s ease;
+}
+
+.hr2:hover{
+    text-decoration: underline solid red;
+}
+ 
 
 footer{
     text-align: center;
